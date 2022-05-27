@@ -1,0 +1,15 @@
+{
+    "name": "user/techie",
+    "autoload": {
+        "psr-4": {
+            "User\\Techie\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teslim",
+            "email": "teslimjimoh191@gmail.com"
+        }
+    ],
+    "require": {}
+}
